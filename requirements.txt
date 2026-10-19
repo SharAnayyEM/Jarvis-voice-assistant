@@ -1,0 +1,9 @@
+SpeechRecognition
+pyttsx3
+psutil
+PyAutoGUI
+requests
+google-genai
+comtypes
+pycaw
+pyaudiowpatch
